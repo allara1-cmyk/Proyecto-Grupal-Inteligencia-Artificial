@@ -1,0 +1,5 @@
+Casa: Hogar
+Besar: Besuquear
+Almohada: Cojin
+Roma: Ciudad
+Ramo: Flores
